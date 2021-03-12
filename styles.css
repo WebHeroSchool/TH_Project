@@ -76,7 +76,7 @@ body{
   background: #0056EC;
 }
 .menu__item:last-child{
-  margin-right: 0;
+  margin-right: 10px;;
 }
 
 .menu__item:hover{
