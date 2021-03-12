@@ -10,13 +10,13 @@ body{
 .header{
   display: flex;
   justify-content: space-between;
-  margin-bottom: 150px;
+  margin-bottom: 130px;
 }
 
 .logo{
   padding: 40px 0;
   position: relative;
-  padding-left: 44px;
+  padding-left: 52px;
   font: bold 24px/31px pt_serif,arial,helvetica,sans-serif;
 }
 
